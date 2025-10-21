@@ -1,0 +1,72 @@
+{
+  "gender": {
+    "id": "gender",
+    "display": "Gender",
+    "options": {
+      "male": {
+        "id": "male",
+        "display": "Male"
+      },
+      "female": {
+        "id": "female",
+        "display": "Female"
+      },
+      "other": {
+        "id": "other",
+        "display": "Other"
+      }
+    }
+  },
+  "home_region": {
+    "id": "home_region",
+    "display": "Home Region",
+    "options": {
+      "east_midlands": {
+        "id": "east_midlands",
+        "display": "East Midlands"
+      },
+      "east_of_england": {
+        "id": "east_of_england",
+        "display": "East of England"
+      },
+      "london": {
+        "id": "london",
+        "display": "London"
+      },
+      "north_east": {
+        "id": "north_east",
+        "display": "North East"
+      },
+      "north_west": {
+        "id": "north_west",
+        "display": "North West"
+      },
+      "scotland": {
+        "id": "scotland",
+        "display": "Scotland"
+      },
+      "south_west": {
+        "id": "south_west",
+        "display": "South West"
+      },
+      "wales": {
+        "id": "wales",
+        "display": "Wales"
+      }
+    }
+  },
+  "relationship_status": {
+    "id": "relationship_status",
+    "display": "Relationship Status",
+    "options": {
+      "single": {
+        "id": "single",
+        "display": "Single"
+      },
+      "married": {
+        "id": "married",
+        "display": "Married"
+      }
+    }
+  }
+}
