@@ -1,0 +1,49 @@
+:root {
+  /* Colors */
+  --color-black: #18283a;
+  --color-midnight: #163d69;
+  --color-midnight-transparent: #163d6919;
+  --color-light_grey: #ebf0f6;
+  --color-grey: #556373;
+  --color-silver: #c4ced9;
+  --color-silver-transparent: #c4ced940;
+  --color-storm: #5e7997;
+  --color-storm-light: #778faa;
+  --color-subtle: #f9fbfe;
+  --color-white: #ffffff;
+  --color-border: #e9ecf0;
+  --color-border-alt: #e8ecf0;
+  --color-border-selected: #c7cfd9;
+  --color-background: #f4f6f8;
+  --color-background-selected: #e2e6eb;
+
+  /* Typography */
+  --font: 'Open Sans', system, -apple-system, sans-serif;
+  --font-size-xs: 13px;
+  --font-size-base: 16px;
+  --font-size-lg: 20px;
+  --font-size-large: 26px;
+  --font-weight-normal: 400;
+  --font-weight-semibold: 600;
+
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 20px;
+  --spacing-xl: 30px;
+  --spacing-2xl: 32px;
+  --spacing-3xl: 50px;
+  --spacing-4xl: 80px;
+  --spacing-card: 24px;
+
+  /* Borders */
+  --border-width: 1px;
+  --border-style: solid;
+  --border: var(--border-width) var(--border-style) var(--color-border);
+
+  /* Sizes */
+  --question-width: 300px;
+  --question-heading-min-height: 48px;
+  --filters-min-width: 350px;
+}
