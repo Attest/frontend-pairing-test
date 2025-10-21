@@ -1,0 +1,1276 @@
+{
+  "exs": {
+    "id": "exs",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "4"],
+      "question-2": ["5"],
+      "question-3": ["1"]
+    }
+  },
+  "rsw": {
+    "id": "rsw",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "london",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["2", "4"],
+      "question-2": ["3"],
+      "question-3": ["6"]
+    }
+  },
+  "wx2": {
+    "id": "wx2",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2"],
+      "question-2": ["3"],
+      "question-3": ["5"]
+    }
+  },
+  "bej": {
+    "id": "bej",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "north_east",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "4", "5"],
+      "question-2": ["4"],
+      "question-3": ["3"]
+    }
+  },
+  "57o": {
+    "id": "57o",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "scotland",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "5"],
+      "question-2": ["4"],
+      "question-3": ["5"]
+    }
+  },
+  "t2n": {
+    "id": "t2n",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3", "4", "6"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "t53": {
+    "id": "t53",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "north_east",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "3"],
+      "question-2": ["4"],
+      "question-3": ["5"]
+    }
+  },
+  "vd6": {
+    "id": "vd6",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "5", "6"],
+      "question-2": ["2"],
+      "question-3": ["3"]
+    }
+  },
+  "hm3": {
+    "id": "hm3",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "london",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "2", "5"],
+      "question-2": ["4"],
+      "question-3": ["2"]
+    }
+  },
+  "hb4": {
+    "id": "hb4",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "4", "5", "6"],
+      "question-2": ["4"],
+      "question-3": ["6"]
+    }
+  },
+  "ail": {
+    "id": "ail",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "4", "5"],
+      "question-2": ["3"],
+      "question-3": ["1"]
+    }
+  },
+  "qlo": {
+    "id": "qlo",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "north_east",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "2"],
+      "question-2": ["4"],
+      "question-3": ["1"]
+    }
+  },
+  "azn": {
+    "id": "azn",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "london",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "3", "4", "5", "6"],
+      "question-2": ["1"],
+      "question-3": ["6"]
+    }
+  },
+  "kmq": {
+    "id": "kmq",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "6"],
+      "question-2": ["2"],
+      "question-3": ["3"]
+    }
+  },
+  "tky": {
+    "id": "tky",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "south_west",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "4"],
+      "question-2": ["3"],
+      "question-3": ["3"]
+    }
+  },
+  "irc": {
+    "id": "irc",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "6"],
+      "question-2": ["2"],
+      "question-3": ["3"]
+    }
+  },
+  "9tb": {
+    "id": "9tb",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "north_east",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "6"],
+      "question-2": ["4"],
+      "question-3": ["2"]
+    }
+  },
+  "zwq": {
+    "id": "zwq",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "south_west",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "b2s": {
+    "id": "b2s",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "3", "6"],
+      "question-2": ["4"],
+      "question-3": ["2"]
+    }
+  },
+  "qa2": {
+    "id": "qa2",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "scotland",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "4"],
+      "question-2": ["2"],
+      "question-3": ["5"]
+    }
+  },
+  "m1h": {
+    "id": "m1h",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "wales",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "4"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "uwk": {
+    "id": "uwk",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "4", "5", "6"],
+      "question-2": ["1"],
+      "question-3": ["3"]
+    }
+  },
+  "wu3": {
+    "id": "wu3",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3", "4", "5", "6"],
+      "question-2": ["2"],
+      "question-3": ["1"]
+    }
+  },
+  "ogg": {
+    "id": "ogg",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "south_west",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "4", "5", "6"],
+      "question-2": ["5"],
+      "question-3": ["1"]
+    }
+  },
+  "qsw": {
+    "id": "qsw",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "wales",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3", "4", "5"],
+      "question-2": ["5"],
+      "question-3": ["2"]
+    }
+  },
+  "qs8": {
+    "id": "qs8",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "4", "5", "6"],
+      "question-2": ["1"],
+      "question-3": ["3"]
+    }
+  },
+  "vy7": {
+    "id": "vy7",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3"],
+      "question-2": ["4"],
+      "question-3": ["6"]
+    }
+  },
+  "w4w": {
+    "id": "w4w",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_midlands",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "3", "4"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "tun": {
+    "id": "tun",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "north_east",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3"],
+      "question-2": ["4"],
+      "question-3": ["1"]
+    }
+  },
+  "ms3": {
+    "id": "ms3",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "4", "6"],
+      "question-2": ["5"],
+      "question-3": ["1"]
+    }
+  },
+  "n0u": {
+    "id": "n0u",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "south_west",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "3", "5", "6"],
+      "question-2": ["3"],
+      "question-3": ["1"]
+    }
+  },
+  "cou": {
+    "id": "cou",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "north_east",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3", "4", "6"],
+      "question-2": ["4"],
+      "question-3": ["4"]
+    }
+  },
+  "4tl": {
+    "id": "4tl",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3", "6"],
+      "question-2": ["4"],
+      "question-3": ["1"]
+    }
+  },
+  "fcq": {
+    "id": "fcq",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "3", "4", "6"],
+      "question-2": ["3"],
+      "question-3": ["5"]
+    }
+  },
+  "n0w": {
+    "id": "n0w",
+    "segmentation": {
+      "gender": "other",
+      "home_region": "scotland",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "4"],
+      "question-2": ["3"],
+      "question-3": ["5"]
+    }
+  },
+  "9oq": {
+    "id": "9oq",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "wales",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3", "6"],
+      "question-2": ["2"],
+      "question-3": ["5"]
+    }
+  },
+  "b4v": {
+    "id": "b4v",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3"],
+      "question-2": ["5"],
+      "question-3": ["2"]
+    }
+  },
+  "3py": {
+    "id": "3py",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "3", "5", "6"],
+      "question-2": ["5"],
+      "question-3": ["2"]
+    }
+  },
+  "bmf": {
+    "id": "bmf",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "5", "6"],
+      "question-2": ["1"],
+      "question-3": ["1"]
+    }
+  },
+  "y05": {
+    "id": "y05",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_of_england",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "2", "5"],
+      "question-2": ["4"],
+      "question-3": ["1"]
+    }
+  },
+  "r3h": {
+    "id": "r3h",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "5"],
+      "question-2": ["2"],
+      "question-3": ["1"]
+    }
+  },
+  "qhl": {
+    "id": "qhl",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "south_west",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "4"],
+      "question-2": ["3"],
+      "question-3": ["5"]
+    }
+  },
+  "ne0": {
+    "id": "ne0",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "wales",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "3", "5"],
+      "question-2": ["3"],
+      "question-3": ["1"]
+    }
+  },
+  "0qi": {
+    "id": "0qi",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "3"],
+      "question-2": ["4"],
+      "question-3": ["2"]
+    }
+  },
+  "ylc": {
+    "id": "ylc",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "london",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "2"],
+      "question-2": ["3"],
+      "question-3": ["4"]
+    }
+  },
+  "uzz": {
+    "id": "uzz",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "wales",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "5", "6"],
+      "question-2": ["3"],
+      "question-3": ["5"]
+    }
+  },
+  "iaa": {
+    "id": "iaa",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3", "6"],
+      "question-2": ["4"],
+      "question-3": ["1"]
+    }
+  },
+  "gmg": {
+    "id": "gmg",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "4"],
+      "question-2": ["4"],
+      "question-3": ["2"]
+    }
+  },
+  "gst": {
+    "id": "gst",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "north_east",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "cjx": {
+    "id": "cjx",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "5", "6"],
+      "question-2": ["1"],
+      "question-3": ["1"]
+    }
+  },
+  "m8l": {
+    "id": "m8l",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "wales",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "4", "5"],
+      "question-2": ["4"],
+      "question-3": ["5"]
+    }
+  },
+  "3bx": {
+    "id": "3bx",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "4", "6"],
+      "question-2": ["5"],
+      "question-3": ["1"]
+    }
+  },
+  "b0v": {
+    "id": "b0v",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["3"],
+      "question-2": ["2"],
+      "question-3": ["2"]
+    }
+  },
+  "wdv": {
+    "id": "wdv",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "north_east",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3", "5", "6"],
+      "question-2": ["4"],
+      "question-3": ["5"]
+    }
+  },
+  "xcq": {
+    "id": "xcq",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_of_england",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["2", "3", "5", "6"],
+      "question-2": ["2"],
+      "question-3": ["6"]
+    }
+  },
+  "ucs": {
+    "id": "ucs",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "3", "4", "6"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "ctx": {
+    "id": "ctx",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "south_west",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["5"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "juo": {
+    "id": "juo",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "5"],
+      "question-2": ["3"],
+      "question-3": ["6"]
+    }
+  },
+  "l9z": {
+    "id": "l9z",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "wales",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "6"],
+      "question-2": ["3"],
+      "question-3": ["1"]
+    }
+  },
+  "r6l": {
+    "id": "r6l",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "scotland",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "3", "4", "5"],
+      "question-2": ["5"],
+      "question-3": ["1"]
+    }
+  },
+  "fjc": {
+    "id": "fjc",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2"],
+      "question-2": ["4"],
+      "question-3": ["1"]
+    }
+  },
+  "p4x": {
+    "id": "p4x",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_midlands",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "3", "4", "5"],
+      "question-2": ["3"],
+      "question-3": ["6"]
+    }
+  },
+  "7qg": {
+    "id": "7qg",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "wales",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "5"],
+      "question-2": ["2"],
+      "question-3": ["1"]
+    }
+  },
+  "yyo": {
+    "id": "yyo",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "south_west",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "5", "6"],
+      "question-2": ["3"],
+      "question-3": ["5"]
+    }
+  },
+  "oc5": {
+    "id": "oc5",
+    "segmentation": {
+      "gender": "other",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "4", "6"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "84a": {
+    "id": "84a",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_of_england",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "2", "5", "6"],
+      "question-2": ["3"],
+      "question-3": ["3"]
+    }
+  },
+  "pwc": {
+    "id": "pwc",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "south_west",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "5"],
+      "question-2": ["5"],
+      "question-3": ["1"]
+    }
+  },
+  "8na": {
+    "id": "8na",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["4"],
+      "question-2": ["5"],
+      "question-3": ["3"]
+    }
+  },
+  "pwo": {
+    "id": "pwo",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "north_west",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["3", "4", "5"],
+      "question-2": ["4"],
+      "question-3": ["2"]
+    }
+  },
+  "i9v": {
+    "id": "i9v",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "3", "5", "6"],
+      "question-2": ["5"],
+      "question-3": ["1"]
+    }
+  },
+  "dpq": {
+    "id": "dpq",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "north_west",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "5", "6"],
+      "question-2": ["3"],
+      "question-3": ["1"]
+    }
+  },
+  "usm": {
+    "id": "usm",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "5"],
+      "question-2": ["5"],
+      "question-3": ["3"]
+    }
+  },
+  "xz0": {
+    "id": "xz0",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "north_east",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "5"],
+      "question-2": ["3"],
+      "question-3": ["4"]
+    }
+  },
+  "wdz": {
+    "id": "wdz",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "south_west",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "5", "6"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "ye1": {
+    "id": "ye1",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_midlands",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["3", "5", "6"],
+      "question-2": ["2"],
+      "question-3": ["2"]
+    }
+  },
+  "i52": {
+    "id": "i52",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "wales",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "4", "6"],
+      "question-2": ["3"],
+      "question-3": ["1"]
+    }
+  },
+  "wtw": {
+    "id": "wtw",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "5"],
+      "question-2": ["4"],
+      "question-3": ["6"]
+    }
+  },
+  "l5r": {
+    "id": "l5r",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1"],
+      "question-2": ["3"],
+      "question-3": ["1"]
+    }
+  },
+  "usc": {
+    "id": "usc",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2"],
+      "question-2": ["4"],
+      "question-3": ["2"]
+    }
+  },
+  "6n6": {
+    "id": "6n6",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "scotland",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "5"],
+      "question-2": ["3"],
+      "question-3": ["6"]
+    }
+  },
+  "yhu": {
+    "id": "yhu",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "south_west",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["2", "3", "4", "5"],
+      "question-2": ["3"],
+      "question-3": ["3"]
+    }
+  },
+  "mwl": {
+    "id": "mwl",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "north_west",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3", "4", "5", "6"],
+      "question-2": ["5"],
+      "question-3": ["5"]
+    }
+  },
+  "u2p": {
+    "id": "u2p",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_of_england",
+      "relationship_status": "married"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "5"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "ho2": {
+    "id": "ho2",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "4"],
+      "question-2": ["2"],
+      "question-3": ["5"]
+    }
+  },
+  "3t5": {
+    "id": "3t5",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "scotland",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "4"],
+      "question-2": ["3"],
+      "question-3": ["3"]
+    }
+  },
+  "dnw": {
+    "id": "dnw",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["3", "4"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "tu3": {
+    "id": "tu3",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "4"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "jpm": {
+    "id": "jpm",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "4", "5"],
+      "question-2": ["3"],
+      "question-3": ["1"]
+    }
+  },
+  "ubz": {
+    "id": "ubz",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "scotland",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2"],
+      "question-2": ["4"],
+      "question-3": ["4"]
+    }
+  },
+  "yqx": {
+    "id": "yqx",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "scotland",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "4"],
+      "question-2": ["3"],
+      "question-3": ["1"]
+    }
+  },
+  "o0h": {
+    "id": "o0h",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "6"],
+      "question-2": ["3"],
+      "question-3": ["2"]
+    }
+  },
+  "tzv": {
+    "id": "tzv",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "north_east",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "4"],
+      "question-2": ["2"],
+      "question-3": ["3"]
+    }
+  },
+  "2qj": {
+    "id": "2qj",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_of_england",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3", "4"],
+      "question-2": ["2"],
+      "question-3": ["3"]
+    }
+  },
+  "gja": {
+    "id": "gja",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "east_midlands",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3", "4", "5"],
+      "question-2": ["5"],
+      "question-3": ["1"]
+    }
+  },
+  "21v": {
+    "id": "21v",
+    "segmentation": {
+      "gender": "female",
+      "home_region": "wales",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["6"],
+      "question-2": ["4"],
+      "question-3": ["5"]
+    }
+  },
+  "vjj": {
+    "id": "vjj",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2"],
+      "question-2": ["4"],
+      "question-3": ["3"]
+    }
+  },
+  "jpe": {
+    "id": "jpe",
+    "segmentation": {
+      "gender": "male",
+      "home_region": "scotland",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["1", "2", "3"],
+      "question-2": ["3"],
+      "question-3": ["4"]
+    }
+  },
+  "e3c": {
+    "id": "e3c",
+    "segmentation": {
+      "gender": "other",
+      "home_region": "london",
+      "relationship_status": "single"
+    },
+    "responses": {
+      "question-1": ["2", "3", "5"],
+      "question-2": ["2"],
+      "question-3": ["1"]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+@import './vars.css';
+
+html,
+body {
+  color: var(--color-black);
+  font-family: var(--font);
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app,
+.page {
+  height: 100%;
+  font-family: var(--font);
+  background: var(--color-subtle);
+  color: var(--color-black);
+}
+
+.page {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto 1fr;
+  overflow-x: hidden;
+}
+
+.nav {
+  background: var(--color-black);
+  padding: 16px;
+  grid-column: 1 / -1;
+}
+
+.icon {
+  width: 18px;
+}

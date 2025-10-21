@@ -1,0 +1,102 @@
+{
+  "title": "Talking about brands",
+  "questions": {
+    "question-1": {
+      "title": "Which of these social platforms do you use?",
+      "id": "question-1",
+      "type": "multiple_choice",
+      "answers": {
+        "1": {
+          "id": "1",
+          "text": "Facebook"
+        },
+        "2": {
+          "id": "2",
+          "text": "YouTube"
+        },
+        "3": {
+          "id": "3",
+          "text": "Instagram"
+        },
+        "4": {
+          "id": "4",
+          "text": "Twitter"
+        },
+        "5": {
+          "id": "5",
+          "text": "Snapchat"
+        },
+        "6": {
+          "id": "6",
+          "text": "Linkedin"
+        },
+        "7": {
+          "id": "7",
+          "text": "Other"
+        },
+        "8": {
+          "id": "8",
+          "text": "None"
+        }
+      }
+    },
+    "question-2": {
+      "title": "How often do you shop online?",
+      "type": "multiple_choice",
+      "id": "question-2",
+      "answers": {
+        "1": {
+          "id": "1",
+          "text": "Daily"
+        },
+        "2": {
+          "id": "2",
+          "text": "Weekly"
+        },
+        "3": {
+          "id": "3",
+          "text": "Monthly"
+        },
+        "4": {
+          "id": "4",
+          "text": "Rarely"
+        },
+        "5": {
+          "id": "5",
+          "text": "Never"
+        }
+      }
+    },
+    "question-3": {
+      "title": "What is your preferred method of communication?",
+      "id": "question-3",
+      "type": "multiple_choice",
+      "answers": {
+        "1": {
+          "id": "1",
+          "text": "Email"
+        },
+        "2": {
+          "id": "2",
+          "text": "Text/SMS"
+        },
+        "3": {
+          "id": "3",
+          "text": "Phone calls"
+        },
+        "4": {
+          "id": "4",
+          "text": "Video calls"
+        },
+        "5": {
+          "id": "5",
+          "text": "Social media messaging"
+        },
+        "6": {
+          "id": "6",
+          "text": "Face-to-face"
+        }
+      }
+    }
+  }
+}
