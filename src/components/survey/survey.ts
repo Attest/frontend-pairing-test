@@ -3,10 +3,7 @@ import { html, render } from '../../dom'
 import { Respondents, State } from '../../store'
 
 export function survey(state: State): ReturnType<typeof render> {
-  const filteredDemographicRespondents = getRespondentsWithSegmentation(
-    state.respondents ?? {},
-    state.selectedDemographics,
-  )
+  const filteredDemographicRespondents = state.respondents ?? {}
   return !state.survey
     ? render(html`<div class="survey-container"></div>`)
     : render(
@@ -35,14 +32,7 @@ export function survey(state: State): ReturnType<typeof render> {
                           Object.keys(state.respondents ?? {}).length,
                           filteredQuestionAnswerRespondents.length,
                         )
-                        return html` <div
-                          class="answer"
-                          data-question-id="${question.id}"
-                          data-answer-id="${answer.id}"
-                          data-selected="${state.selectedQuestionAnswers[question.id]?.includes(
-                            answer.id,
-                          ) ?? false}"
-                        >
+                        return html` <div class="answer">
                           <div class="track" style="width: ${activeRespondentsPercentage}%"></div>
                           <div
                             class="marker"
@@ -79,31 +69,6 @@ export function survey(state: State): ReturnType<typeof render> {
             }),
           ),
       )
-}
-
-function getRespondentsWithSegmentation(
-  respondents: Respondents,
-  segmentation: { [demographicId: string]: string[] },
-): Respondents {
-  return Object.fromEntries(
-    Object.entries(respondents).filter(([_, respondent]) => {
-      return isRespondentInSegmentation(respondent, segmentation)
-    }),
-  )
-}
-
-function isRespondentInSegmentation(
-  respondent: Respondent,
-  segmentation: { [demographicId: string]: string[] },
-): boolean {
-  return Object.entries(segmentation).every(([id, optionIds]) => {
-    if (optionIds.length === 0) {
-      return true
-    }
-
-    const respondentOptionId = respondent.segmentation[id]
-    return respondentOptionId !== undefined ? optionIds.includes(respondentOptionId) : false
-  })
 }
 
 function getRespondentsForQuestionAnswer(

@@ -41,16 +41,11 @@
   padding: var(--spacing-sm);
   margin-bottom: var(--spacing-sm);
   display: flex;
-  cursor: pointer;
   align-items: center;
 }
 
 .answer:last-of-type {
   border-bottom-style: var(--border-style);
-}
-
-.answer[data-selected='true'] {
-  background: var(--color-midnight-transparent);
 }
 
 .label {

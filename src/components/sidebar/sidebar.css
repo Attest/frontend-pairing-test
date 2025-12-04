@@ -1,18 +1,18 @@
-.filters-container {
+.sidebar-container {
   background-color: var(--color-white);
   padding: var(--spacing-card);
-  min-width: min(var(--filters-min-width), 100%);
+  min-width: min(var(--sidebar-min-width), 100%);
   max-width: 100%;
   min-height: 100vh;
   flex-shrink: 0;
 }
 
-.filters-heading,
+.sidebar-heading,
 .demographics-heading {
   font-weight: var(--font-weight-normal);
 }
 
-.filters-heading {
+.sidebar-heading {
   text-align: center;
   margin-bottom: var(--spacing-xl);
 }

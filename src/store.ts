@@ -4,23 +4,25 @@ import { Survey } from './models/survey'
 
 export type Demographics = Readonly<{ [demographicId: string]: Demographic }>
 export type Respondents = Readonly<{ [respondentId: string]: Respondent }>
-export type SelectedDemographics = Readonly<{ [demographicId: string]: string[] }>
-export type SelectedQuestionAnswers = Readonly<{ [questionId: string]: string[] }>
 
-export interface State {
+export type State = APIState & UIState
+
+type APIState = {
   survey?: Survey
   demographics?: Demographics
   respondents?: Respondents
+}
 
+export type SelectedDemographics = { [demographicId: string]: string[] }
+
+type UIState = {
   selectedDemographics: SelectedDemographics
-  selectedQuestionAnswers: SelectedQuestionAnswers
 }
 
 type Subscriber = (state: State) => void
 
 const state: State = {
   selectedDemographics: {},
-  selectedQuestionAnswers: {},
 }
 
 const subscribers: Subscriber[] = []

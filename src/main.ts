@@ -1,6 +1,6 @@
 import { subscribe, patchState, State } from './store'
 import { survey } from './components/survey'
-import { filters } from './components/filters'
+import { sidebar } from './components/sidebar'
 import './styles/main.css'
 
 function renderSurvey(state: State) {
@@ -8,14 +8,14 @@ function renderSurvey(state: State) {
   survey(state)(document.querySelector('.js-survey'))
 }
 
-function renderFilters(state: State) {
-  filters(state)(document.querySelector('.js-filters'))
+function renderSidebar(state: State) {
+  sidebar(state)(document.querySelector('.js-sidebar'))
 }
 
 ;(async function main() {
   subscribe(state => {
     renderSurvey(state)
-    renderFilters(state)
+    renderSidebar(state)
   })
 
   patchState({ survey: await (await fetch('/api/survey.json')).json() })

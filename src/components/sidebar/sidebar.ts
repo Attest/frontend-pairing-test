@@ -1,13 +1,13 @@
 import { html, render } from '../../dom'
 import { patchState, State } from '../../store'
 
-export function filters(state: State): ReturnType<typeof render> {
+export function sidebar(state: State): ReturnType<typeof render> {
   const counts = sumDemographics(state.respondents)
   return !state.demographics
-    ? render(html`<div class="filters-container"></div>`)
+    ? render(html`<div class="sidebar-container"></div>`)
     : render(
-        html`<div class="filters-container">
-          <h2 class="filters-heading">Filters</h2>
+        html`<div class="sidebar-container">
+          <h2 class="sidebar-heading">Filters</h2>
           <div class="demographics">
             ${Object.values(state.demographics).map(
               demographic =>
@@ -47,29 +47,9 @@ export function filters(state: State): ReturnType<typeof render> {
               if (!demographicId || !optionId) {
                 return
               }
-
-              toggleSelectedDemographicOption(state.selectedDemographics, demographicId, optionId)
             }),
           ),
       )
-}
-
-function toggleSelectedDemographicOption(
-  selectedDemographics: State['selectedDemographics'],
-  demographicId: string,
-  optionId: string,
-): void {
-  const selectedDemographic = selectedDemographics[demographicId] ?? []
-  const newSelectedDemographicOptions = selectedDemographic.includes(optionId)
-    ? selectedDemographic.filter(id => id !== optionId)
-    : [...selectedDemographic, optionId]
-
-  patchState({
-    selectedDemographics: {
-      ...selectedDemographics,
-      [demographicId]: newSelectedDemographicOptions,
-    },
-  })
 }
 
 function sumDemographics(respondents: State['respondents']): {

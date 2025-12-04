@@ -12,8 +12,6 @@ You will be asked to do some technical tasks during the interview to add some ne
 
 Attest is a platform where users can design and send surveys to the public. The Attest platform will then collect responses from many users; your task is to represent the results of a completed survey and allow the user to filter the data.
 
-The sidebar on the right displays and applies demographic filters, this is used to filter the response data, i.e. clicking "London" will change the responses shown on the left to only display the responses of users that match the filters selected.
-
 ## What's included?
 
 - A vite config that supports:
@@ -30,12 +28,13 @@ The sidebar on the right displays and applies demographic filters, this is used 
 We will run through tasks during the pairing interview. We provide the repository ahead of time to allow you to get familiar with some of the code base.
 
 Prior to the pairing interview please:
+
 - Setup the local repository
 - Make sure everything is running
   - There is a failing unit test, as we will use this as a reference for the completed task being correct.
 - Get familiar with some of the code, so we have a shared understanding
   - `./src/store.ts` contains the application state
-  - `./src/filters/*` contains the UI and functionality for the demographic filter panel
+  - `./src/sidebar/*` contains the UI and functionality for the demographic filter panel
   - `./src/survey/*` contains the UI for the survey
   - `./models/*` contains the data models/types that we will primarily be working with
     - You should have a reasonable understanding of the terminology of what a `demographic`, `respondent`, `question` and `answer` models are.
