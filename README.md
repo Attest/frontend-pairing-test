@@ -30,6 +30,7 @@ The sidebar on the right displays and applies demographic filters, this is used 
 We will run through tasks during the pairing interview. We provide the repository ahead of time to allow you to get familiar with some of the code base.
 
 Prior to the pairing interview please:
+
 - Setup the local repository
 - Make sure everything is running
   - There is a failing unit test, as we will use this as a reference for the completed task being correct.
