@@ -67,3 +67,8 @@ eslint-data
 /dist/*
 /config.json
 /.cache-loader
+
+# AI agent local files #
+#####################
+CLAUDE.local.md
+.claude/settings.local.json

@@ -50,9 +50,15 @@ You can use [`mise`](https://mise.jdx.dev/) to setup environment
 
 ## How to run?
 
-- Open up the Dev Server on `https://localhost:5173` with `pnpm start`
+- Open up the Dev Server on `http://localhost:5173` with `pnpm start`
 - To retrieve the survey data request `http://localhost:5173/api/survey.json`
 - To retrieve the demographics data request `http://localhost:5173/api/demographics.json`
 - To retrieve the respondents data request `http://localhost:5173/api/respondents.json`
 - Run unit tests `pnpm test` (these will only pass upon successfully completing task 3)
 - Run type checking `pnpm typecheck`
+
+## Documentation
+
+- [`AGENTS.md`](./AGENTS.md) -- AI agent instructions and project quick reference.
+- [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md) -- System architecture, data flow, and directory structure.
+- [`.agents/rules/`](./.agents/rules/) -- Code style, testing, and security conventions.
