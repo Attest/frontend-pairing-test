@@ -496,64 +496,64 @@ describe('survey component', () => {
                           <h3 class="question-heading">Which of these social platforms do you use?</h3>
                           <div class="answers">
                              <div class="answer" data-question-id="question-1" data-answer-id="1" data-selected="true">
-                                <div class="track" style="width: 14.285714285714286%"></div>
+                                <div class="track" style="width: 30.612244897959183%"></div>
                                 <div class="marker" style="width: 70.40816326530613%"></div>
 
                                 <div class="label">Facebook</div>
 
-                                <div class="value">14</div>
+                                <div class="value">30</div>
                                 <div class="percentage">
-                                  (14%)
+                                  (31%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-1" data-answer-id="2" data-selected="true">
-                                <div class="track" style="width: 14.285714285714286%"></div>
+                                <div class="track" style="width: 33.673469387755105%"></div>
                                 <div class="marker" style="width: 67.34693877551021%"></div>
 
                                 <div class="label">YouTube</div>
 
-                                <div class="value">14</div>
+                                <div class="value">33</div>
                                 <div class="percentage">
-                                  (14%)
+                                  (34%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-1" data-answer-id="3" data-selected="false">
-                                <div class="track" style="width: 1.0204081632653061%"></div>
+                                <div class="track" style="width: 16.3265306122449%"></div>
                                 <div class="marker" style="width: 48.9795918367347%"></div>
 
                                 <div class="label">Instagram</div>
 
-                                <div class="value">1</div>
+                                <div class="value">16</div>
                                 <div class="percentage">
-                                  (1%)
+                                  (16%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-1" data-answer-id="4" data-selected="false">
-                                <div class="track" style="width: 5.1020408163265305%"></div>
+                                <div class="track" style="width: 20.408163265306122%"></div>
                                 <div class="marker" style="width: 42.85714285714286%"></div>
 
                                 <div class="label">Twitter</div>
 
-                                <div class="value">5</div>
+                                <div class="value">20</div>
                                 <div class="percentage">
-                                  (5%)
+                                  (20%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-1" data-answer-id="5" data-selected="false">
-                                <div class="track" style="width: 5.1020408163265305%"></div>
+                                <div class="track" style="width: 20.408163265306122%"></div>
                                 <div class="marker" style="width: 46.93877551020408%"></div>
 
                                 <div class="label">Snapchat</div>
 
-                                <div class="value">5</div>
+                                <div class="value">20</div>
                                 <div class="percentage">
-                                  (5%)
+                                  (20%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-1" data-answer-id="6" data-selected="false">
-                                <div class="track" style="width: 4.081632653061225%"></div>
+                                <div class="track" style="width: 17.346938775510203%"></div>
                                 <div class="marker" style="width: 39.79591836734694%"></div>
 
                                 <div class="label">Linkedin</div>
 
-                                <div class="value">4</div>
+                                <div class="value">17</div>
                                 <div class="percentage">
-                                  (4%)
+                                  (17%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-1" data-answer-id="7" data-selected="false">
                                 <div class="track" style="width: 0%"></div>
@@ -583,24 +583,24 @@ describe('survey component', () => {
                           <h3 class="question-heading">How often do you shop online?</h3>
                           <div class="answers">
                              <div class="answer" data-question-id="question-2" data-answer-id="1" data-selected="false">
-                                <div class="track" style="width: 0%"></div>
+                                <div class="track" style="width: 3.0612244897959187%"></div>
                                 <div class="marker" style="width: 5.1020408163265305%"></div>
 
                                 <div class="label">Daily</div>
 
-                                <div class="value">0</div>
+                                <div class="value">3</div>
                                 <div class="percentage">
-                                  (0%)
+                                  (3%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-2" data-answer-id="2" data-selected="false">
-                                <div class="track" style="width: 0%"></div>
+                                <div class="track" style="width: 6.122448979591837%"></div>
                                 <div class="marker" style="width: 15.306122448979592%"></div>
 
                                 <div class="label">Weekly</div>
 
-                                <div class="value">0</div>
+                                <div class="value">6</div>
                                 <div class="percentage">
-                                  (0%)
+                                  (6%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-2" data-answer-id="3" data-selected="true">
                                 <div class="track" style="width: 16.3265306122449%"></div>
@@ -613,24 +613,24 @@ describe('survey component', () => {
                                   (16%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-2" data-answer-id="4" data-selected="false">
-                                <div class="track" style="width: 0%"></div>
+                                <div class="track" style="width: 14.285714285714286%"></div>
                                 <div class="marker" style="width: 25.510204081632654%"></div>
 
                                 <div class="label">Rarely</div>
 
-                                <div class="value">0</div>
+                                <div class="value">14</div>
                                 <div class="percentage">
-                                  (0%)
+                                  (14%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-2" data-answer-id="5" data-selected="false">
-                                <div class="track" style="width: 0%"></div>
+                                <div class="track" style="width: 7.142857142857143%"></div>
                                 <div class="marker" style="width: 14.285714285714286%"></div>
 
                                 <div class="label">Never</div>
 
-                                <div class="value">0</div>
+                                <div class="value">7</div>
                                 <div class="percentage">
-                                  (0%)
+                                  (7%)
                                 </div>
                               </div>
                           </div>
@@ -640,64 +640,64 @@ describe('survey component', () => {
                           <h3 class="question-heading">What is your preferred method of communication?</h3>
                           <div class="answers">
                              <div class="answer" data-question-id="question-3" data-answer-id="1" data-selected="false">
-                                <div class="track" style="width: 1.0204081632653061%"></div>
+                                <div class="track" style="width: 13.26530612244898%"></div>
                                 <div class="marker" style="width: 29.591836734693878%"></div>
 
                                 <div class="label">Email</div>
 
-                                <div class="value">1</div>
+                                <div class="value">13</div>
                                 <div class="percentage">
-                                  (1%)
+                                  (13%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-3" data-answer-id="2" data-selected="false">
-                                <div class="track" style="width: 7.142857142857143%"></div>
+                                <div class="track" style="width: 11.224489795918368%"></div>
                                 <div class="marker" style="width: 25.510204081632654%"></div>
 
                                 <div class="label">Text/SMS</div>
 
-                                <div class="value">7</div>
+                                <div class="value">11</div>
                                 <div class="percentage">
-                                  (7%)
+                                  (11%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-3" data-answer-id="3" data-selected="false">
-                                <div class="track" style="width: 3.0612244897959187%"></div>
+                                <div class="track" style="width: 11.224489795918368%"></div>
                                 <div class="marker" style="width: 15.306122448979592%"></div>
 
                                 <div class="label">Phone calls</div>
 
-                                <div class="value">3</div>
+                                <div class="value">11</div>
                                 <div class="percentage">
-                                  (3%)
+                                  (11%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-3" data-answer-id="4" data-selected="false">
-                                <div class="track" style="width: 1.0204081632653061%"></div>
+                                <div class="track" style="width: 2.0408163265306123%"></div>
                                 <div class="marker" style="width: 5.1020408163265305%"></div>
 
                                 <div class="label">Video calls</div>
 
-                                <div class="value">1</div>
+                                <div class="value">2</div>
                                 <div class="percentage">
-                                  (1%)
+                                  (2%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-3" data-answer-id="5" data-selected="false">
-                                <div class="track" style="width: 1.0204081632653061%"></div>
+                                <div class="track" style="width: 4.081632653061225%"></div>
                                 <div class="marker" style="width: 15.306122448979592%"></div>
 
                                 <div class="label">Social media messaging</div>
 
-                                <div class="value">1</div>
+                                <div class="value">4</div>
                                 <div class="percentage">
-                                  (1%)
+                                  (4%)
                                 </div>
                               </div> <div class="answer" data-question-id="question-3" data-answer-id="6" data-selected="false">
-                                <div class="track" style="width: 3.0612244897959187%"></div>
+                                <div class="track" style="width: 5.1020408163265305%"></div>
                                 <div class="marker" style="width: 9.183673469387756%"></div>
 
                                 <div class="label">Face-to-face</div>
 
-                                <div class="value">3</div>
+                                <div class="value">5</div>
                                 <div class="percentage">
-                                  (3%)
+                                  (5%)
                                 </div>
                               </div>
                           </div>
