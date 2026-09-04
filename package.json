@@ -29,7 +29,8 @@
     "overrides": {
       "vite": "npm:rolldown-vite@7.1.20",
       "immutable": "5.1.9",
-      "brace-expansion": "2.1.4"
+      "brace-expansion": "2.1.4",
+      "browserslist": "4.28.7"
     }
   }
 }
